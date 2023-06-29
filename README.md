@@ -1,1 +1,1 @@
-# Catch-A-Blocked-Turtle
+# The purpose of this game is to click on a turtle to get points within a given time frame. The top five people who have the highest points will be put on a leaderboard on display at the end of the game. 

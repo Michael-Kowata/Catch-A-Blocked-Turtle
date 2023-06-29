@@ -1,5 +1,0 @@
-Jun,999
-Sam,45
-Emily,36
-Michael,25
-Joe,23
